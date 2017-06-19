@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "802918567947",
+    "firebase_url": "https://mascotaproyecto-49618.firebaseio.com",
+    "project_id": "mascotaproyecto-49618",
+    "storage_bucket": "mascotaproyecto-49618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802918567947:android:93889d08017461d7",
+        "android_client_info": {
+          "package_name": "com.example.lucia.notificacionfirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802918567947-vv67utag029gva9lbmh5gf8savbb0i2n.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.lucia.notificacionfirebase",
+            "certificate_hash": "a156b5fd2f019ed780930856afed662f68ebd9a2"
+          }
+        },
+        {
+          "client_id": "802918567947-c06k3sdlb53t1lckb83vf378l0kp84e8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-fPoOJbWcegqxMC7nLBedQgROAStLYWk"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802918567947-c06k3sdlb53t1lckb83vf378l0kp84e8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
