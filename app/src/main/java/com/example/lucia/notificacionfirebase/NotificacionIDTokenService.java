@@ -17,6 +17,7 @@ public class NotificacionIDTokenService extends FirebaseInstanceIdService {
         //super.onTokenRefresh();
         Log.d(TAG, "Solicitando Token");
         String token = FirebaseInstanceId.getInstance().getToken();
+        enviarTokenRegistro(token);
        
     }
     private void enviarTokenRegistro (String token){

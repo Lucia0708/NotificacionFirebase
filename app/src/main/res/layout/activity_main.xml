@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:text="@string/recibir_notificaciones"
         android:layout_centerHorizontal="true"
-        android:onClick="lanzarNotificacion"/>
+        android:onClick="enviarToken"/>
 
 
 </RelativeLayout>
